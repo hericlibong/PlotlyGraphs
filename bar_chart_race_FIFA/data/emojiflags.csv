@@ -1,0 +1,55 @@
+country,region,flag,country_alt,alpha2,alpha3,numeric
+2,Algeria,Africa,🇩🇿,Algeria,DZ,DZA,12
+4,Angola,Africa,🇦🇴,Angola,AO,AGO,24
+18,Benin,Africa,🇧🇯,Benin,BJ,BEN,204
+22,Botswana,Africa,🇧🇼,Botswana,BW,BWA,72
+26,Burkina Faso,Africa,🇧🇫,Burkina Faso,BF,BFA,854
+27,Burundi,Africa,🇧🇮,Burundi,BI,BDI,108
+28,Cabo Verde,Africa,🇨🇻,Cape Verde,CV,CPV,132
+30,Cameroon,Africa,🇨🇲,Cameroon,CM,CMR,120
+32,Central African Republic,Africa,🇨🇫,Central African Republic,CF,CAF,140
+33,Chad,Africa,🇹🇩,Chad,TD,TCD,148
+37,Comoros,Africa,🇰🇲,Comoros,KM,COM,174
+38,Congo,Africa,🇨🇬,Congo - Brazzaville,CG,COG,178
+41,CI,Africa,🇨🇮,Côte d’Ivoire,CI,CIV,384
+47,Congo DR,Africa,🇨🇩,Congo - Kinshasa,CD,COD,180
+49,Djibouti,Africa,🇩🇯,Djibouti,DJ,DJI,262
+53,Egypt,Africa,🇪🇬,Egypt,EG,EGY,818
+55,Equatorial Guinea,Africa,🇬🇶,Equatorial Guinea,GQ,GNQ,226
+56,Eritrea,Africa,🇪🇷,Eritrea,ER,ERI,232
+58,Eswatini,Africa,🇸🇿,Eswatini,SZ,SWZ,748
+59,Ethiopia,Africa,🇪🇹,Ethiopia,ET,ETH,231
+63,Gabon,Africa,🇬🇦,Gabon,GA,GAB,266
+64,Gambia,Africa,🇬🇲,Gambia,GM,GMB,270
+67,Ghana,Africa,🇬🇭,Ghana,GH,GHA,288
+71,Guinea,Africa,🇬🇳,Guinea,GN,GIN,324
+72,Guinea-Bissau,Africa,🇬🇼,Guinea-Bissau,GW,GNB,624
+89,Kenya,Africa,🇰🇪,Kenya,KE,KEN,404
+96,Lesotho,Africa,🇱🇸,Lesotho,LS,LSO,426
+97,Liberia,Africa,🇱🇷,Liberia,LR,LBR,430
+98,Libya,Africa,🇱🇾,Libya,LY,LBY,434
+101,Madagascar,Africa,🇲🇬,Madagascar,MG,MDG,450
+102,Malawi,Africa,🇲🇼,Malawi,MW,MWI,454
+105,Mali,Africa,🇲🇱,Mali,ML,MLI,466
+108,Mauritania,Africa,🇲🇷,Mauritania,MR,MRT,478
+109,Mauritius,Africa,🇲🇺,Mauritius,MU,MUS,480
+115,Morocco,Africa,🇲🇦,Morocco,MA,MAR,504
+116,Mozambique,Africa,🇲🇿,Mozambique,MZ,MOZ,508
+118,Namibia,Africa,🇳🇦,Namibia,,NAM,516
+124,Niger,Africa,🇳🇪,Niger,NE,NER,562
+125,Nigeria,Africa,🇳🇬,Nigeria,NG,NGA,566
+144,Rwanda,Africa,🇷🇼,Rwanda,RW,RWA,646
+150,Sao Tome and Principe,Africa,🇸🇹,São Tomé & Príncipe,ST,STP,678
+152,Senegal,Africa,🇸🇳,Senegal,SN,SEN,686
+154,Seychelles,Africa,🇸🇨,Seychelles,SC,SYC,690
+155,Sierra Leone,Africa,🇸🇱,Sierra Leone,SL,SLE,694
+160,Somalia,Africa,🇸🇴,Somalia,SO,SOM,706
+161,South Africa,Africa,🇿🇦,South Africa,ZA,ZAF,710
+162,South Sudan,Africa,🇸🇸,South Sudan,SS,SSD,728
+165,Sudan,Africa,🇸🇩,Sudan,SD,SDN,729
+173,Togo,Africa,🇹🇬,Togo,TG,TGO,768
+176,Tunisia,Africa,🇹🇳,Tunisia,TN,TUN,788
+180,Uganda,Africa,🇺🇬,Uganda,UG,UGA,800
+184,Tanzania,Africa,🇹🇿,Tanzania,TZ,TZA,834
+192,Zambia,Africa,🇿🇲,Zambia,ZM,ZMB,894
+193,Zimbabwe,Africa,🇿🇼,Zimbabwe,ZW,ZWE,716
