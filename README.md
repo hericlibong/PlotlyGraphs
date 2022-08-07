@@ -27,4 +27,4 @@ Suite of visualizations with Plotly on the monkey pox epidemic.
 ##### World Progression
 <br>
 
-![monkeypox1](/assets/monkey1.png)
+![monkeypox1](MONKEYPOX/assets/monkey1.png)
