@@ -19,3 +19,12 @@ The data comes from the official website of [Fifa](https://www.fifa.com/). They 
 
 * Python
 * Plotly Graph Objects
+
+
+### MonkeyPox 
+Suite of visualizations with Plotly on the monkey pox epidemic.
+
+##### World Progression
+<br>
+
+![monkeypox1](/assets/monkey1.png)
